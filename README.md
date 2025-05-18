@@ -1,6 +1,6 @@
 # Palindrome Checker
 
-A simple Python package to check if a string is a palindrome.
+A simple Python package to check if a string and integer is a palindrome. It ignores case and punctuation.
 
 ## Usage
 
